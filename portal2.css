@@ -1,0 +1,110 @@
+.dropdown-menu{
+    box-shadow: 2px 2px gray;
+    text-align: center;
+}
+
+.ab{
+    margin-right: 20px;
+}
+
+.navbar-brand{
+    margin-left: 25px;
+    font-size: 19px;
+}
+
+.abb{
+    margin-right: 15px;
+}
+
+.ada{
+    padding-top: 0.5%;
+}
+
+
+.ada{
+    margin-top: 15px;
+}
+
+.quarantine{
+    margin-top: 20px;
+}
+
+.ti{
+    text-align: center;
+}
+
+.title{
+    margin-top: 15px ;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(0, 0, 0, 0.1);
+  }
+
+.card img{
+    height: 150px;
+}
+
+.A{
+    margin-bottom: 35px;
+}
+
+.footer{
+    background-color: #b8e2fc;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+}
+
+.fot h6{
+    font-size: medium;
+}
+
+.fot h5{
+    margin-bottom: 20px;
+}
+
+.accc{
+    box-shadow: 5px 5px 10px;
+}
+
+.card-text{
+    font-weight: bold;
+}
+
+footer{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer h5{
+    font-weight: bold;
+}
+
+.accb label{
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('./images/login7.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.acccc h3{
+  font-family: 'Exo 2', sans-serif;
+}
+

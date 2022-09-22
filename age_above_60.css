@@ -1,0 +1,92 @@
+.dropdown-menu{
+    box-shadow: 2px 2px gray;
+    text-align: center;
+}
+
+.ab{
+    margin-right: 20px;
+}
+
+.navbar-brand{
+    margin-left: 25px;
+    font-size: 19px;
+}
+
+.abb{
+    margin-right: 15px;
+}
+
+.ada{
+    padding-top: 0.5%;
+}
+
+.ada{
+    margin-top: 15px;
+}
+
+
+.footer{
+    background-color: #b8e2fc;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    margin-top: 25px;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+}
+
+.fot h6{
+    font-size: medium;
+}
+
+.fot h5{
+    margin-bottom: 20px;
+}
+
+
+.card img{
+    height: 150px;
+}
+
+.A{
+    margin-bottom: 15px;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+  }
+
+
+.tutor img{
+    height: 300px;
+}
+
+.card{
+    box-shadow: 5px 5px 10px;
+}
+
+.card-text{
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Exo 2', sans-serif;
+    
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer{
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer h5{
+    font-weight: bold;
+}
